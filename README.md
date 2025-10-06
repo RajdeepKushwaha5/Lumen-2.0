@@ -2,6 +2,9 @@
 
 **A minimal, elegant GitHub Pages theme.** Simple to use, beautiful by default.
 
+Live : https://rajdeepkushwaha5.github.io/Lumen-2.0/
+
+
 ![Version](https://img.shields.io/badge/version-2.1-blue) ![License](https://img.shields.io/badge/license-CC%20BY--SA%203.0-green)
 
 ## 📖 Overview
@@ -243,3 +246,4 @@ If you have questions or need help:
 ---
 
 **Made with ❤️ for simplicity and elegance**
+
